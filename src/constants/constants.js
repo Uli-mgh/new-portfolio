@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "MERN Social Media",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, specimen book. It has.",
+      "Full Stack application using MongoDb where a user can upload their own Posts, Edit, delete, like and comment other users post, with authentication and jsonwebtokens.",
     image: "/images/1.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://google.com",
@@ -20,7 +20,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: "TITULO",
+    title: "Travel App",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, specimen book. It has.",
     image: "/images/3.png",

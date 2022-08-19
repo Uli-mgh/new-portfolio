@@ -67,7 +67,12 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Un textisho de ejemplisho por que nose que poner aca ahora mismo
+        Hello 👋, my name is Ulises Maghenzani, Full Stack Developer, I enjoy
+        what I do and learn every day something new to develop myself as a
+        better professional in my career. I have experience on the front-end
+        side with technologies like React, Next.js, Typescript, and on the
+        back-end side with SQL and non-SQL databases, node js, and other
+        databases like Firebase or Sanity.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
