@@ -20,11 +20,20 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Travel App",
+    title: "Rooms and Travel",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, specimen book. It has.",
     image: "/images/3.png",
-    tags: ["Mongo", "Express", "React", "Node"],
+    tags: [
+      "Mongo",
+      "JWT",
+      "React",
+      "Mui/material",
+      "Node",
+      "Firestore",
+      "Mapbox-GL",
+      "Google-auth-library",
+    ],
     source: "https://google.com",
     visit: "https://google.com",
     id: 2,
@@ -42,9 +51,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Started my journey" },
-  { year: 2019, text: "Started my journey" },
-  { year: 2020, text: "Started my journey" },
-  { year: 2021, text: "Started my journey" },
+  { year: 2019, text: "Technical school graduation" },
+  { year: 2020, text: "Studied political science at the university" },
+  { year: 2021, text: "Decided to start my journey" },
+  { year: 2022, text: "Graduation at HENRY Fullstack bootcamp" },
 ];

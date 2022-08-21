@@ -9,9 +9,9 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
   { number: 20, text: "Projects" },
-  { number: 1, text: "Nose que poner aca" },
-  { number: 2, text: "Nose que poner aca" },
-  { number: 2, text: "Nose que poner aca" },
+  { number: "FCC", text: "FCC Backend & API" },
+  { number: "Henry", text: "FullStack bootcamp" },
+  { number: "2 Year", text: "Self-study" },
 ];
 
 const Acomplishments = () => (

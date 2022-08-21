@@ -18,9 +18,9 @@ const Hero = (props) => (
       <SectionText>
         FullStack web developer and Technology enthusiast
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
-        My CV
-      </Button>
+      <a target="_blank" href="https://twitter.com/" rel="noopener noreferrer">
+        <Button>My CV</Button>
+      </a>
     </LeftSection>
   </Section>
 );

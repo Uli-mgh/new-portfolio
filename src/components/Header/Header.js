@@ -25,7 +25,7 @@ const Header = () => (
             marginBottom: "20px",
           }}
         >
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <DiCssdeck size="3rem" /> <Span>Ulises</Span>
         </a>
       </Link>
     </Div1>
@@ -47,10 +47,19 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/Uli-mgh">
+      {/* <a target="_blank" href="https://twitter.com/" rel="noopener noreferrer"></a> */}
+      <SocialIcons
+        href="https://github.com/Uli-mgh"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/ulises-571659223">
+      <SocialIcons
+        href="https://www.linkedin.com/in/ulises-571659223"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       {/* <SocialIcons href="https://github.com/Uli-mgh">
