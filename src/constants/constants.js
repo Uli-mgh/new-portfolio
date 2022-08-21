@@ -1,13 +1,23 @@
 export const projects = [
   {
+    title: "Rooms and Travel",
+    description:
+      "Application using mapbox, Google auth and custom. Search for rooms on the map, or login to create rooms, assign them a price, address, etc. (google-auth stop working, i'll fix it).",
+    image: "/images/3.png",
+    tags: ["Mongo", "Express", "React", "Node"],
+    source: "https://travel-rooms.netlify.app",
+    visit: "https://github.com/Uli-mgh/Travel-App",
+    id: 0,
+  },
+  {
     title: "MERN Social Media",
     description:
       "Full Stack application using MongoDb where a user can upload their own Posts, Edit, delete, like and comment other users post, with authentication and jsonwebtokens.",
     image: "/images/1.png",
     tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://google.com",
-    visit: "https://google.com",
-    id: 0,
+    source: "https://github.com/Uli-mgh/Social-media-app",
+    visit: "https://github.com/Uli-mgh/Social-media-app",
+    id: 1,
   },
   {
     title: "RAWG Videogames",
@@ -17,35 +27,16 @@ export const projects = [
     tags: ["React", "NodeJs", "Express", "ORM", "PostgreSQL"],
     source: "https://videogames-7ntvhikeu-uli-mgh.vercel.app",
     visit: "https://google.com",
-    id: 1,
-  },
-  {
-    title: "Rooms and Travel",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, specimen book. It has.",
-    image: "/images/3.png",
-    tags: [
-      "Mongo",
-      "JWT",
-      "React",
-      "Mui/material",
-      "Node",
-      "Firestore",
-      "Mapbox-GL",
-      "Google-auth-library",
-    ],
-    source: "https://google.com",
-    visit: "https://google.com",
     id: 2,
   },
   {
-    title: "TITULO",
+    title: "Clothing Ecommerce",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, specimen book. It has",
+      "Team project where we created a professional ecommerce for SoyHenry bootcamp, with Firebase auth, Stripe payment gateway, postgreSQL, and much more!",
     image: "/images/4.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    tags: ["PostgreSQL", "Express", "React", "Node"],
+    source: "https://kilt-clothing.vercel.app",
+    visit: "https://github.com/franco-ibanez-dev/PF-26a",
     id: 3,
   },
 ];

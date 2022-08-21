@@ -54,7 +54,7 @@ const Projects = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              Source
+              Demo
             </ExternalLinks>
           </UtilityList>
         </BlogCard>
