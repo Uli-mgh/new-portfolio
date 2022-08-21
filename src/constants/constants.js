@@ -10,12 +10,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: "MERN Social Media",
+    title: "TikTok-Clone",
     description:
-      "Full Stack application using MongoDb where a user can upload their own Posts, Edit, delete, like and comment other users post, with authentication and jsonwebtokens.",
+      "The aim of the project is to make a tiktok clone using Next.js and Typescript, the project is still under development, this is just a quick demo. ",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://github.com/Uli-mgh/Social-media-app",
+    tags: ["Typescript", "Next.JS", "Tailwind css", "Sanity"],
+    source: "https://tiktok-clone-uli-mgh.vercel.app",
     visit: "https://github.com/Uli-mgh/Social-media-app",
     id: 1,
   },
