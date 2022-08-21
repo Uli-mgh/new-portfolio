@@ -16,7 +16,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["Typescript", "Next.JS", "Tailwind css", "Sanity"],
     source: "https://tiktok-clone-uli-mgh.vercel.app",
-    visit: "https://github.com/Uli-mgh/Social-media-app",
+    visit: "https://github.com/Uli-mgh/tiktok-clone",
     id: 1,
   },
   {
