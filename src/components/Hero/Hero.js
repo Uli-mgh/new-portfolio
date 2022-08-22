@@ -18,7 +18,11 @@ const Hero = (props) => (
       <SectionText>
         FullStack web developer and Technology enthusiast
       </SectionText>
-      <a target="_blank" href="https://twitter.com/" rel="noopener noreferrer">
+      <a
+        target="_blank"
+        href="https://drive.google.com/file/d/1P0xf9UeGwTF6728h3iaNqYStPEqD3j5V/view?usp=sharing"
+        rel="noopener noreferrer"
+      >
         <Button>My CV</Button>
       </a>
     </LeftSection>
