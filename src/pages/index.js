@@ -7,6 +7,8 @@ import Timeline from "../components/TimeLine/TimeLine";
 import { Layout } from "../layout/Layout";
 import { Section } from "../styles/GlobalComponents";
 
+//comit
+
 const Home = () => {
   return (
     <Layout>
