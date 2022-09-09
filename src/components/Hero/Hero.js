@@ -20,7 +20,7 @@ const Hero = (props) => (
       </SectionText>
       <a
         target="_blank"
-        href="https://drive.google.com/file/d/1P0xf9UeGwTF6728h3iaNqYStPEqD3j5V/view?usp=sharing"
+        href="https://drive.google.com/file/d/1oQREmx7kVBIrBzEaouSLTENa8W3jVl0g/view?usp=sharing"
         rel="noopener noreferrer"
       >
         <Button>My CV</Button>
