@@ -15,8 +15,8 @@ export const projects = [
       "Workout app with list of exercises and tutorials for each group of muscles. Using an API to fetch the content, with material/MUI for the styles making a great design and user experience.",
     image: "/images/1.png",
     tags: ["React", "Mui/Material", "API"],
-    source: "https://tiktok-clone-uli-mgh.vercel.app",
-    visit: "https://github.com/Uli-mgh/tiktok-clone",
+    source: "https://workout-api-5emi.vercel.app",
+    visit: "https://github.com/Uli-mgh/Workout-api",
     id: 1,
   },
   {
