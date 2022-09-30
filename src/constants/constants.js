@@ -10,9 +10,9 @@ export const projects = [
     id: 0,
   },
   {
-    title: "TikTok-Clone",
+    title: "Workout App",
     description:
-      "Workout app with list of exercises and tutorials for each group of muscles. Using an API to fetch the content.",
+      "Workout app with list of exercises and tutorials for each group of muscles. Using an API to fetch the content, with material/MUI for the styles making a great design and user experience.",
     image: "/images/1.png",
     tags: ["React", "Mui/Material", "API"],
     source: "https://tiktok-clone-uli-mgh.vercel.app",
