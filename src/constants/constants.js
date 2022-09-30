@@ -12,9 +12,9 @@ export const projects = [
   {
     title: "TikTok-Clone",
     description:
-      "The aim of the project is to make a tiktok clone using Next.js and Typescript, the project is still under development, this is just a quick demo. ",
+      "Workout app with list of exercises and tutorials for each group of muscles. Using an API to fetch the content.",
     image: "/images/1.png",
-    tags: ["Typescript", "Next.JS", "Tailwind css", "Sanity"],
+    tags: ["React", "Mui/Material", "API"],
     source: "https://tiktok-clone-uli-mgh.vercel.app",
     visit: "https://github.com/Uli-mgh/tiktok-clone",
     id: 1,
