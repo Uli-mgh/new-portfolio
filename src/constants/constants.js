@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Workout App",
     description:
-      "Workout app with list of exercises and tutorials for each group of muscles. Using an API to fetch the content, with material/MUI for the styles making a great design and user experience.",
+      "Workout app with list of exercises and tutorials for each group of muscles. Using an API to fetch the content, and for the styles MUI/material making a great user experience.",
     image: "/images/1.png",
     tags: ["React", "Mui/Material", "API"],
     source: "https://workout-api-5emi.vercel.app",
